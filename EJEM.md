@@ -32,4 +32,4 @@ https://gitpitch.com/$user/$repo/$branch
 
 Para el cual la presentación resultante fue la siguiente:
 
-![](https://gitpitch.com/wfpinedar/taller_qt_flisol)
+![ejemplo](https://gitpitch.com/wfpinedar/taller_qt_flisol)
