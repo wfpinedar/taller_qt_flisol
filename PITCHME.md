@@ -30,7 +30,7 @@ template: invert
 
 # Es Qt una tampa?
 
-* No
+* Realmente no.
 * Pero es confuso el hecho de su multiple licenciamiento
 * GNU LGPL 2.1
 * GNU GPL 2 y 3
@@ -101,7 +101,7 @@ template: invert
 
 ---
 
- # Hello World!!!
+## Hello World!!!
 
 ```python
 import sys
@@ -123,23 +123,23 @@ if __name__ == '__main__':
 ```
 ---
 
-# PyQt - Usando Qt Designer
+## PyQt - Usando Qt Designer
 ![](images/designer1.png)
 
 +++
 
-# PyQt - Usando Qt Designer
+## PyQt - Usando Qt Designer
 ![](images/designer2.png)
 
 +++
 
-# Creando GUI desde QtDesigner
+## Creando GUI desde QtDesigner
 
 ![](images/calc.png)
 
 +++
 
-# Llamar la GUI desde el archivo. 
+## Llamar la GUI desde el archivo. 
 
 ```python
 import sys
@@ -158,7 +158,7 @@ class MyWindow(QtWidgets.QDialog):
 
 +++
 
-# Función operación de GUI
+## Función operación de GUI
 
 ```python
     def operar(self):
@@ -171,7 +171,7 @@ class MyWindow(QtWidgets.QDialog):
 
 +++
 
-# Funcion con la logica del negocio
+## Funcion con la logica del negocio
 
 ```python
     def operacion(self, n1, n2, op):
@@ -191,7 +191,7 @@ class MyWindow(QtWidgets.QDialog):
 
 +++
 
-# Lanzamiento de la aplicación
+## Lanzamiento de la aplicación
 
 ```python
 if __name__ == '__main__':
