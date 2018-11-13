@@ -13,7 +13,7 @@ template: invert
 
 # ¿Que es QT?
 
-![](images/Qt_logo_2016.svg)
+![](images/Qt_logo_2016.png)
 
 +++
 
@@ -66,7 +66,7 @@ template: invert
 
 # ¿Que es Python?
 
-![](images/Python-logo-notext.svg)
+![](images/Python-logo-notext.png)
 
 +++
 
@@ -87,7 +87,7 @@ template: invert
 ---
 
 # ¿Que es PyQT?
-![](images/Python_and_Qt.svg)
+![](images/Python_and_Qt.png)
 
 +++
 
