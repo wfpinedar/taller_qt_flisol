@@ -13,7 +13,7 @@ template: invert
 
 # ¿Que es QT?
 
-# ![](images/Qt_logo_2016.svg)
+![QT](images/Qt_logo_2016.svg)
 
 +++
 
@@ -107,15 +107,15 @@ if __name__ == '__main__':
 ```
 ---
 # PyQt - Usando Qt Designer
-# ![](images/designer1.png)
+![](images/designer1.png)
 +++
 # PyQt - Usando Qt Designer
-# ![](images/designer2.png)
+![](images/designer2.png)
 
 +++
 # Creando GUI desde QtDesigner
 
-# ![](images/calc.png)
+![](images/calc.png)
 +++
 # Llamar la GUI desde el archivo. 
 
