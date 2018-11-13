@@ -13,7 +13,7 @@ template: invert
 
 # ¿Que es QT?
 
-![QT](images/Qt_logo_2016.svg)
+![](images/Qt_logo_2016.svg)
 
 +++
 
@@ -60,7 +60,7 @@ template: invert
 ---
 # ¿Que es Python?
 
-# ![](images/Python-logo-notext.svg)
+![](images/Python-logo-notext.svg)
 +++
 # Python es: 
 * Python es un lenguaje de programación 
@@ -75,7 +75,7 @@ template: invert
 # [Python3 in one pic](https://github.com/coodict/python3-in-one-pic)
 ---
 # ¿Que es PyQT?
-# ![](images/Python_and_Qt.svg)
+![](images/Python_and_Qt.svg)
 +++
 # PyQT es...
 * Binding de la Qt para Python. 
